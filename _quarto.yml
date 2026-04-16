@@ -8,6 +8,10 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: pirates_resume_math4025.pdf
+      - text: Resume
+      - href: pirates_cover_letter_math4025.pdf
+      - text: Cover Letter
 
 format:
   html:
