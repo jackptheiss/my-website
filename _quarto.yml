@@ -5,6 +5,9 @@ website:
   title: "my-website"
   navbar:
     left:
+      - index.qmd
+      - about.qmd
+      - sample_analysis3.ipynb
       - href: index.qmd
         text: Home
       - about.qmd
